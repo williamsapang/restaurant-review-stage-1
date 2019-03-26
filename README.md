@@ -18,3 +18,8 @@ Map API:
 ## Instructions
 
 A starter code containing the app main code has been provided. The requirement for pass the project was to make the app full responsive for the most common devices viewports (both style and images), make it accessibile (using proper semantic elements and ARIA-labels, alt attributes for any image and ARIA-roles) and cache in in a static site for offline use, using Cache API and ServiceWorker element.
+
+
+## Contributing
+
+All suggestions and tips will be more than appreciated but, as general rule, no pull requested are normally accepted.
